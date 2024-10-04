@@ -2,4 +2,4 @@
 
 yay version control
 
-yay 
+yay lets go
